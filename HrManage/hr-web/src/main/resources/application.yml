@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    type: 
+    url: 
+    username: 
+    password: 
+
+file:
+  address:
+    host: 

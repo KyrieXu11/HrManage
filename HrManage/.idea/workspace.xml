@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6695bdf3-36b3-44c3-8431-6f092e54413f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hr" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hr" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hr" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="vhr: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hr" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="vhr: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="hr" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="vhr: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="employee: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Mapper" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\LocalRepository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\IDEA 2019.1\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZYPGXa3r3Sr92z6qG3dT5NrsEc" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hr-web/src/main/resources/static" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kyriexu.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\HrManage\hr-web\src\main\resources\static" />
+      <recent name="E:\WorkSpace\HrManage\hr-service\src\main\java\com\kyriexu\utils" />
+      <recent name="E:\WorkSpace\HrManage\hr-web\src\main\java\com\kyriexu\controller" />
+      <recent name="E:\WorkSpace\HrManage\hr-service\src\main\java\com\kyriexu\service" />
+      <recent name="E:\WorkSpace\HrManage\hr-web\src\main\java\com\kyriexu\component" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\HrManage\hr-web\src\main\resources\static\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration name="TestApplication.TestFastDFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hr-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kyriexu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kyriexu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.kyriexu.test.TestApplication" />
+      <option name="METHOD_NAME" value="TestFastDFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication.TestHrMapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hr-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kyriexu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kyriexu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.kyriexu.test.TestApplication" />
+      <option name="METHOD_NAME" value="TestHrMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication.Testmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hr-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kyriexu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kyriexu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.kyriexu.test.TestApplication" />
+      <option name="METHOD_NAME" value="Testmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication.Testmail2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hr-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kyriexu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kyriexu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.kyriexu.test.TestApplication" />
+      <option name="METHOD_NAME" value="Testmail2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hr-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kyriexu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kyriexu.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestApplication.TestHrMapper" />
+      <item itemvalue="JUnit.TestApplication.Testmail" />
+      <item itemvalue="JUnit.TestApplication.Testmail2" />
+      <item itemvalue="JUnit.TestApplication.TestFastDFS" />
+      <item itemvalue="Spring Boot.MainApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApplication" />
+        <item itemvalue="JUnit.TestApplication.TestFastDFS" />
+        <item itemvalue="JUnit.TestApplication.Testmail2" />
+        <item itemvalue="JUnit.TestApplication.Testmail" />
+        <item itemvalue="JUnit.TestApplication.TestHrMapper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6695bdf3-36b3-44c3-8431-6f092e54413f" name="Default Changelist" comment="" />
+      <created>1585012958293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585012958293</updated>
+      <workItem from="1585012959788" duration="2821000" />
+      <workItem from="1585147396880" duration="7278000" />
+      <workItem from="1585191303597" duration="20487000" />
+      <workItem from="1585267129747" duration="17039000" />
+      <workItem from="1585290805107" duration="15943000" />
+      <workItem from="1585357848185" duration="30037000" />
+      <workItem from="1585443778293" duration="29305000" />
+      <workItem from="1585531076243" duration="23478000" />
+      <workItem from="1585581437082" duration="4104000" />
+      <workItem from="1585616732915" duration="20704000" />
+      <workItem from="1585660351379" duration="4305000" />
+      <workItem from="1585704159030" duration="15739000" />
+      <workItem from="1585755863521" duration="1675000" />
+      <workItem from="1585790237173" duration="3979000" />
+      <workItem from="1585794308261" duration="8683000" />
+      <workItem from="1585819643906" duration="287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="93" key="#Console" timestamp="1585197746348">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="93" key="#Console/0.0.1536.864@0.0.1536.864" timestamp="1585197746348" />
+    <state x="361" y="93" key="#Project_Structure" timestamp="1585620320531">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="93" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1585620320531" />
+    <state x="485" y="284" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1585368315476">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="485" y="284" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.864@0.0.1536.864" timestamp="1585368315476" />
+    <state x="361" y="93" width="1155" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585621447885">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="93" width="1155" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1585621447885" />
+    <state x="574" y="145" width="388" height="578" key="#com.intellij.ide.util.MemberChooser" timestamp="1585794399729">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="145" width="388" height="578" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1585794399729" />
+    <state x="499" y="212" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585372686808">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="212" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1585372686808" />
+    <state x="575" y="360" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585625586431">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="575" y="360" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1585625586431" />
+    <state x="553" y="298" width="429" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585448733806">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="553" y="298" width="429" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1585448733806" />
+    <state x="37" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585296015758">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="37" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1585296015758" />
+    <state x="499" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585619889250">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1585619889250" />
+    <state width="421" height="466" key="DebuggerActiveHint" timestamp="1585722882707">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="421" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1585722882707" />
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1585796459535">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585796459535" />
+    <state width="1537" height="232" key="GridCell.Tab.0.bottom" timestamp="1585819933102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="232" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585819933102" />
+    <state width="1537" height="232" key="GridCell.Tab.0.center" timestamp="1585819933102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="232" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585819933102" />
+    <state width="1537" height="232" key="GridCell.Tab.0.left" timestamp="1585819933101">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="232" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585819933101" />
+    <state width="1537" height="232" key="GridCell.Tab.0.right" timestamp="1585819933102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="232" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585819933102" />
+    <state width="1537" height="232" key="GridCell.Tab.1.bottom" timestamp="1585819933102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="232" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585819933102" />
+    <state width="1537" height="232" key="GridCell.Tab.1.center" timestamp="1585819933102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="232" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585819933102" />
+    <state width="1537" height="232" key="GridCell.Tab.1.left" timestamp="1585819933102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="232" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585819933102" />
+    <state width="1537" height="232" key="GridCell.Tab.1.right" timestamp="1585819933102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="232" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585819933102" />
+    <state x="349" y="97" key="Registry" timestamp="1585480836368">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="97" key="Registry/0.0.1536.864@0.0.1536.864" timestamp="1585480836368" />
+    <state x="150" y="39" width="1174" height="710" key="SettingsEditor" timestamp="1585791512915">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="150" y="39" width="1174" height="710" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585791512915" />
+    <state width="501" height="448" key="SwitcherDM" timestamp="1585642112086">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="501" height="448" key="SwitcherDM/0.0.1536.864@0.0.1536.864" timestamp="1585642112086" />
+    <state x="525" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585756675793">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="525" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1585756675793" />
+    <state x="323" y="171" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585384058645">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="323" y="171" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1585384058645" />
+    <state x="178" y="136" key="new project wizard" timestamp="1585730002889">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="136" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1585730002889" />
+    <state x="472" y="64" key="refactoring.ChangeSignatureDialog" timestamp="1585558172425">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="472" y="64" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1585558172425" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1585790352222">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1585790352222" />
+    <state x="431" y="181" width="672" height="577" key="search.everywhere.popup" timestamp="1585793767840">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="577" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1585793767840" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HrManage$TestApplication_MQConsumerTest.ic" NAME="TestApplication.MQConsumerTest Coverage Results" MODIFIED="1585215717426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.kyriexu.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
