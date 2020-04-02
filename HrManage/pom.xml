@@ -19,7 +19,7 @@
         <spring.boot.version>2.2.4.RELEASE</spring.boot.version>
         <mysql.driver.version>8.0.19</mysql.driver.version>
         <lombok.version>1.18.12</lombok.version>
-        <log4j.version>1.2.17</log4j.version>
+        <log4j.version>2.13.1</log4j.version>
         <mybatis.version>2.1.1</mybatis.version>
         <rocketmq.version>4.7.0</rocketmq.version>
         <jedis.version>3.2.0</jedis.version>
